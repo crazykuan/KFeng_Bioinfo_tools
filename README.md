@@ -1,2 +1,2 @@
-# Kuan's-Bioinfo_tools
+# KFeng_Bioinfo_tools
 simple scripts for NGS data
